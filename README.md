@@ -1,4 +1,6 @@
-# HBuilderX Soft Green Light Theme
+## 重新根据HBuilder x 绿柔主题进行矫正（且修复原主题文件标题在mac版是白色的问题）
+
+### originally: HBuilderX Soft Green Light Theme
 
 The healthiest theme for your eyes!
 

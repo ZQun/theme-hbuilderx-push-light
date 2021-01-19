@@ -1,15 +1,15 @@
 {
-	"name": "theme-hbuilderx-soft-green-light",
+	"name": "theme-hbuilderx-push-light",
 	"displayName": "%displayName%",
 	"description": "%description%",
-	"version": "1.0.2",
-	"homepage": "https://github.com/qinains/theme-hbuilderx-soft-green-light/blob/master/README.md",
+	"version": "1.0.3",
+	"homepage": "https://github.com/ZQun/theme-hbuilderx-push-light/blob/master/README.md",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/qinains/theme-hbuilderx-soft-green-light"
+		"url": "https://github.com/ZQun/theme-hbuilderx-push-light"
 	},
 	"bugs": {
-		"url": "https://github.com/qinains/theme-hbuilderx-soft-green-light/issues"
+		"url": "https://github.com/ZQun/theme-hbuilderx-push-light/issues"
 	},
 	"publisher": "lninl",
 	"license": "MIT",
