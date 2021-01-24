@@ -6,6 +6,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.4] - 2021-01-24
+### Changed
+- 减淡windows端标签打开背景色深度
+
+## [1.0.3] - 2021-01-19
+### Changed
+- 重新根据HBuilder x 绿柔主题进行矫正（且修复原主题文件标题在mac版是白色的问题）
+
 ## [1.0.2] - 2020-08-20
 ### Changed
 - Change terminal.ansiBrightYellow
